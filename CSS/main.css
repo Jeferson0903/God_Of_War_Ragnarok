@@ -1,0 +1,66 @@
+*/*{
+    font-size: 100%;
+}
+
+.container{
+    width: 100%;
+    max-width: 1228px;
+    margin: 0 auto;
+    display: flex;
+}
+
+img{
+    max-width: 100%;
+}
+.topo{
+    color:aliceblue;
+}
+html{
+    background-color: black;
+    width: 100%;
+}
+
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+h1{
+    font-weight: 800;
+    font-size: 100px;
+    box-sizing: border-box;
+}
+p{
+    color: aquamarine;
+
+}
+
+.botao{
+    width: 80%;
+    height: 10%;
+    background-color:black;
+    position:absolute;
+}
+
+#valor1{
+       background-color: aliceblue;
+       width: 6em;
+       height: 2em; 
+       display: flex;
+       align-items: center;
+       justify-content: center;
+}
+
+#valor2{
+    background-color: aliceblue;
+    width: 12em;
+    height: 2em;
+    left: 6.1em;
+    top:-2.8em;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
